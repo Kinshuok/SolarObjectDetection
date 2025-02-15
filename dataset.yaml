@@ -1,0 +1,7 @@
+path: /Users/kinshuokmunjal/Documents/solarobjectdetection/dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3  # Number of classes
+names: ["solar_panel_0", "solar_panel_1", "solar_panel_2"]
